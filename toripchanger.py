@@ -4,7 +4,7 @@ import requests
 import os
 import time
 
-
+#matin nooriyan
 
 
 
@@ -30,4 +30,4 @@ while True:
         print(res)
     os.system("service tor stop")
 
-
+#code by matitanium
